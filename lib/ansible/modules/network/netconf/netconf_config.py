@@ -25,7 +25,7 @@ description:
       device, and detects if there was a configuration change.
 notes:
     - This module supports devices with and without the candidate and
-      confirmed-commit capabilities. It always use the safer feature.
+      confirmed-commit capabilities. It always uses the safer feature.
     - This module supports the use of connection=netconf
 version_added: "2.2"
 options:
